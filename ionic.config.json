@@ -1,0 +1,7 @@
+{
+  "name": "dicee-flutter",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "custom"
+}
